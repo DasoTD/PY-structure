@@ -10,3 +10,6 @@ print(' ')
 
 for pos in range(5, 10):
     print(pos, end=',')
+print(' ')
+for pos in range(5, 10, 2): #the third value is called step
+    print(pos, end=',')
