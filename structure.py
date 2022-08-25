@@ -40,3 +40,10 @@ def our_max(a, b):
 a,b = 5,10
 our_min(a,b)
 our_max(a,b)
+
+def f():
+    return 1,2,3
+
+# 1,2,3 = f()
+
+
